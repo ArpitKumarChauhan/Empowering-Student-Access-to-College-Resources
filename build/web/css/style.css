@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 25, 2022, 2:42:58 PM
+    Author     : kumar
+*/
+.outer{
+    font-family:Arial;
+}
+.logo
+{
+    width:100%;
+}
+.image
+{
+   text-align: center;
+}
+
+.colormarqueetext
+{
+    background-color:#BF4A00;
+}
+.aliright{
+    text-align: left;
+}
+.txtjust{
+    
+    text-justify:inter-word;
+    text-align: justify;
+    text-align:center;
+}
+txtjust1
+{
+    text-justify:inter-word;
+    text-align: justify;
+    text-align:center;
+}
+.foot li a
+{
+    text-decoration:none;
+    color:white;
+}
+.colorouter
+{
+    background-color:#8B0000;
+}
+
+.marpara
+{
+    background-color:#BF4A00;
+    width:430px;
+    color:white;
+    font-size:16px;
+    margin-top:15px ;
+    text-align:center;
+    float:left;
+    
+}
+.marpara1{
+    margin-left:16px;
+}
+p{
+    line-height: 28px;
+}
+.aboutimage
+{
+    position:relative;
+    margin:5%;
+}
+.aboutimagefirsttxt
+{
+    position:absolute;
+    margin-top:-180px;
+   right:8%;
+}
+            .card:hover{
+     transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4 px 8px rgba(0,0,0,.06);
+  
+}
+.textcolor
+{
+position:relative;
+animation-name:test;
+animation-duration:4s;
+animation-iteration-count:infinite;
+}
+@keyframes test
+{
+    0% {color:#FFA500;}
+    25% {color:#E67E22;}
+    50% {color:#BFC9CA;}
+    75% {color:#8B0000;}
+    100% {color:#FFA500;}
+}
