@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>NOULMS || About Us ||</title>
+        <title>GPC || About Us ||</title>
         <%@include file="linkmaster.jsp" %>
     </head>
     
@@ -45,7 +45,7 @@ The Diploma holders play very important roles in industrial and economic develop
            </div>
            <div class="row mt-5">
                <div class="col-sm-6">
-                   <h5><b style="font-size:28px;">About </b> <b style="font-size:25px;color:#8B0000;"><U>NOU e-Gyan Portal....&nbsp;&nbsp;&nbsp;&nbsp;</U></b></h5>
+                   <h5><b style="font-size:28px;">About </b> <b style="font-size:25px;color:#8B0000;"><U>GPC Portal....&nbsp;&nbsp;&nbsp;&nbsp;</U></b></h5>
                    <br/>
                    <p>Know about all the features and facilities offered by <b>Government Polytechnic College, Changipur, Noorpur, Bijnor</b> to students for their overall development.</p>
                    <br/>
